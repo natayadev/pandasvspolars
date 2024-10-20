@@ -27,5 +27,5 @@ python polars.py
 python pandas.py
 ```
 ```
-jupyter notebook notebook_comparativa.ipynb
+jupyter notebook notebook.ipynb
 ```
